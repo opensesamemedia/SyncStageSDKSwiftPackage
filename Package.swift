@@ -13,7 +13,7 @@ let package = Package(
     ],
     dependencies: [],
     targets: [
-        .binaryTarget(name: "SyncStageSDK", url: "https://syncstage.s3.amazonaws.com/sdk/SyncStageSDK_0.0.19.xcframework.zip", checksum: "ec959243ca066fcd5ea7c4d0750a71f12fdf006c57011ff73b98296af06e8808")
+        .binaryTarget(name: "SyncStageSDK", url: "https://syncstage.s3.amazonaws.com/sdk/SyncStageSDK_0.0.20.xcframework.zip", checksum: "e784cac1dd217e4c811e751dfa90b8f4e194040cf596fa8bd5a0fce912123f89")
     ],
     swiftLanguageVersions: [.v5]
 )
